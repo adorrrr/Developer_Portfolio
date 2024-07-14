@@ -4,9 +4,7 @@ To create a README file for your GitHub repository based on the provided HTML st
 
 # Ahasanul Monir Adar - Portfolio Website
 
-![GitHub last commit](https://img.shields.io/github/last-commit/adorrrr/portfolio-website)
-![GitHub repo size](https://img.shields.io/github/repo-size/adorrrr/portfolio-website)
-![GitHub](https://img.shields.io/github/license/adorrrr/portfolio-website)
+
 
 This is the repository for Ahasanul Monir Adar's personal portfolio website. It showcases his skills, projects, and contact information.
 
