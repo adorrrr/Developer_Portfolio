@@ -1,6 +1,4 @@
-To create a README file for your GitHub repository based on the provided HTML structure and CSS, here’s a comprehensive template you can use:
 
----
 
 # Ahasanul Monir Adar - Portfolio Website
 
@@ -64,15 +62,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Ahasanul Monir Adar - [GitHub](https://github.com/adorrrr) | [LinkedIn](https://www.linkedin.com/in/ahassanul-monir-adar-8b8464274/)
 
----
-
-### Customize this README:
-
-1. **Screenshots**: Replace `Screenshots` section with actual screenshots or GIFs of your website.
-2. **Technologies Used**: Add any additional technologies you used in your project.
-3. **Setup**: Provide specific setup instructions if necessary.
-4. **Usage**: Detail specific features or functionality users should know about.
-5. **Contributing**: Outline contribution guidelines if you expect community involvement.
-6. **Author**: Update links and descriptions as per your actual GitHub and LinkedIn profiles.
-
-This template provides a structured overview of your portfolio website repository, making it informative and inviting for visitors and potential collaborators. Adjust details to best represent your work and encourage engagement with your projects.
