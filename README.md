@@ -4,7 +4,7 @@
 
 
 
-This is the repository for Ahasanul Monir Adar's personal portfolio website. It showcases his skills, projects, and contact information.
+This is the repository for my personal portfolio website. It showcases his skills, projects, and contact information.
 
 ## Table of Contents
 
