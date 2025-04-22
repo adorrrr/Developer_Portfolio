@@ -14,9 +14,14 @@ This is the repository for Ahasanul Monir Adar's personal portfolio website. It 
 - [Contact](#contact)
 
 
-## Live Preview
+## Screenshot
 
 [Capture](https://github.com/user-attachments/assets/813f9558-bb8a-4583-bc38-ce39dbbe00eb)
+
+
+## Live Preview
+
+- https://adorrrr.github.io/Developer_Portfolio/
 
 
 ## Technologies Used
