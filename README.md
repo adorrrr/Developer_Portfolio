@@ -4,7 +4,7 @@
 
 
 
-This is the repository for my personal portfolio website. It showcases his skills, projects, and contact information.
+This is the repository for my personal portfolio website. It showcases my skills, projects, and contact information.
 
 ## Table of Contents
 
