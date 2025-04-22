@@ -40,5 +40,6 @@ This is the repository for Ahasanul Monir Adar's personal portfolio website. It 
 
 ## Author
 
-- Ahasanul Monir Adar - [GitHub](https://github.com/adorrrr) | [LinkedIn]([https://www.linkedin.com/in/ahassanul-monir-adar-8b8464274/])
+- **Ahassanul Monir Adar** — [GitHub](https://github.com/adorrrr) | [LinkedIn](https://www.linkedin.com/in/ahassanul-monir-adar-8b8464274/)
+
 
