@@ -14,11 +14,6 @@ This is the repository for my personal portfolio website. It showcases my skills
 - [Contact](#contact)
 
 
-## Screenshot
-
-[Capture](https://github.com/user-attachments/assets/813f9558-bb8a-4583-bc38-ce39dbbe00eb)
-
-
 ## Live Preview
 
 - https://adorrrr.github.io/Developer_Portfolio/
@@ -26,8 +21,8 @@ This is the repository for my personal portfolio website. It showcases my skills
 
 ## Technologies Used
 
-- HTML5
-- CSS3 (including media queries for responsiveness)
+- HTML
+- CSS
 - JavaScript
 
 ## Features
