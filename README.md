@@ -8,10 +8,10 @@ This is the repository for my personal portfolio website. It showcases my skills
 
 ## Table of Contents
 
-- [About](#about)
-- [Experience](#experience)
-- [Projects](#projects)
-- [Contact](#contact)
+- [About]
+- [Experience]
+- [Projects]
+- [Contact]
 
 
 ## Live Preview
