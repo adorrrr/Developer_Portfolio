@@ -2,7 +2,7 @@
 
 # Ahasanul Monir Adar - Portfolio Website
 
-<img src="https://res.cloudinary.com/dphnu6u05/image/upload/v1754072249/Screenshot_2025-08-02_001711_gs3rby.png"/>
+<img src="https://res.cloudinary.com/dphnu6u05/image/upload/v1754072405/Screenshot_2025-08-02_001711_tnhxlj.png"/>
 
 This is the repository for my personal portfolio website. It showcases my skills, projects, and contact information.
 
