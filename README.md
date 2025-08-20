@@ -16,7 +16,7 @@ This is the repository for my personal portfolio website. It showcases my skills
 
 ## Live Preview
 
-- https://adorrrr.github.io/Developer_Portfolio/
+- https://ahasanul.vercel.app/
 
 
 ## Technologies Used
